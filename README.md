@@ -16,3 +16,6 @@ This Portfolio is Designed for me to highlight the projects I have completed as 
 - Have a contact me button
 - Form in the contact me to be able to be contacted
 - Nice Visuals
+
+### FIGMA LINK
+https://www.figma.com/file/FsDN0cWeRuQDjnTo26ZiR7/Portfolio?type=design&node-id=0%3A1&mode=design&t=CbqlaQr8rIqhKYMK-1
