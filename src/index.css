@@ -112,6 +112,14 @@
   margin: 10px; /* Add spacing between projects */
 }
 
+.calculator {
+  height: 120px;
+}
+
+.pingpong {
+  height: 120px;
+}
+
 
 .resume-container {
   position: relative;
