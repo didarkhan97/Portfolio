@@ -11,7 +11,7 @@ function Projects() {
         <div className="project-container">
         <div className="project">
           <h3>Calculator Project</h3>
-          <a href="http://127.0.0.1:5500/Calculator/index.html" target="_blank" rel="noopener noreferrer">
+          <a href="https://didarkhan97.github.io/Calculator/" target="_blank" rel="noopener noreferrer">
           <img src= {CalculatorPic} className='calculator' alt="Calculator Project" />
 
           </a>
@@ -20,7 +20,7 @@ function Projects() {
         </div>
         <div className="project">
           <h3>Ping Pong Game Project</h3>
-          <a href="http://127.0.0.1:5500/Ping-Pong-Game/index.html" target="_blank" rel="noopener noreferrer">
+          <a href="https://didarkhan97.github.io/Ping-Pong-Game/" target="_blank" rel="noopener noreferrer">
           <img src= {PingPongPic} className='pingpong' alt="Ping Pong Game Project" />
           </a>
           <p>Description: This is a classic Ping Pong game built using HTML, CSS, and JavaScript.</p>
