@@ -10,7 +10,7 @@ import NavBar from './components/NavBar';
 // Main component to be rendered
 const Main = () => {
   return (
-    <BrowserRouter> {/* Wrap your entire application with BrowserRouter */}
+    <BrowserRouter basename={import.meta.env.BASE_URL}> {/* Wrap your entire application with BrowserRouter */}
       <NavBar /> {/* Navbar should be a part of the router context */}
       <Routes> {/* Routes should be direct children of BrowserRouter */}
         <Route path="/" element={<Home />} />
