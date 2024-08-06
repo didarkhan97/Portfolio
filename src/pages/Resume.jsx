@@ -9,8 +9,8 @@ function Resume() {
         <h2>Resume Highlights</h2>
         <h3>Education</h3>
         <ul>
-          <li>Nebula Academy Software Engineering program</li>
-          <li>New York City College of Technology Student</li>
+          <li>New York City College of Technology</li>
+          <li>Nebula Academy Software Engineering Program</li>
         </ul>
         <h3>Technical Skills</h3>
         <ul>
